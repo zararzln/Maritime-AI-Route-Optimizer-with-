@@ -1,6 +1,3 @@
-# Maritime-AI-Route-Optimizer-with-
-AI-powered maritime route optimization dashboard analyzing cost, time, environmental impact, and weather safety to recommend optimal shipping routes between global ports. Built with Python, Streamlit, and geospatial analysis tools.
-
 # Maritime Route Optimizer
 
 An AI-powered maritime route optimization system that helps shipping companies find the most efficient routes between ports worldwide.
