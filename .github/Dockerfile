@@ -7,4 +7,6 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD ["streamlit", "run", "dashboard.py", "--server.headless", "true", "--server.enableCORS", "false"]
+EXPOSE 7860
+
+CMD ["streamlit", "run", "dashboard.py"]
