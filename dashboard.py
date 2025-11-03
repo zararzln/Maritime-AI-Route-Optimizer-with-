@@ -482,7 +482,7 @@ def main():
             st.metric("🌱 CO₂ Emissions", f"{optimal_route['co2_emissions_tons']:.1f} tons")
             st.markdown('</div>', unsafe_allow_html=True)
         
-        # Interactive map# Interactive map
+        # Interactive map
         st.markdown('<h3 class="sub-header">🗺️ Interactive Route Visualization</h3>', 
             unsafe_allow_html=True)
 
